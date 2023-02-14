@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinamra Vashishth</h1>
 <h3 align="center">Blockchain and Full-stack web developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinvash" alt="vinvash" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vinvash01" target="blank"><img src="https://img.shields.io/twitter/follow/vinvash01?logo=twitter&style=for-the-badge" alt="vinvash01" /></a> </p>
 
 - 🔭 I’m currently working on [Decentralised Social Media](https://github.com/VinVash/Consultant-Project-Frontend)
