@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinamra Vashishth</h1>
 <h3 align="center">Blockchain and Full-stack web developer.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 <p align="left"> <a href="https://twitter.com/vinvash01" target="blank"><img src="https://img.shields.io/twitter/follow/vinvash01?logo=twitter&style=for-the-badge" alt="vinvash01" /></a> </p>
 
 - 🔭 I’m currently working on [Decentralised Social Media](https://github.com/VinVash/Consultant-Project-Frontend)
