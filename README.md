@@ -5,29 +5,28 @@
 
 <p align="left"> <a href="https://twitter.com/vinvash01" target="blank"><img src="https://img.shields.io/twitter/follow/vinvash01?logo=twitter&style=for-the-badge" alt="vinvash01" /></a> </p>
 
-- 🔭 I’m currently working on [Decentralised Social Media](https://github.com/VinVash/Consultant-Project-Frontend)
+- 🔭 I’m currently working on [Full-stack Blockchain Projects](https://github.com/VinVash)
 
-- 🌱 Currently learning **DAOs and Defi Protocols**
+- 🌱 Currently learning **Graph Protocol**
 
-- 👯 Ready to collaborate on **Lending Pool smart contract.**
+- 👯 Ready to collaborate on **Decentralised Social Media Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinVash?tab=repositories](https://github.com/VinVash?tab=repositories)
+- 👨‍💻 All of my projects are available here: [Github Projects](https://github.com/VinVash?tab=repositories)
 
 - 💬 Ask me about **Blockchain, Web3.0 and MERN**
 
 - 📫 How to reach me **vinamra.30jan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XMAwFfA0cFfpigIIF3gckvYQ9YpPJMtf/view?usp=sharing](https://drive.google.com/file/d/1XMAwFfA0cFfpigIIF3gckvYQ9YpPJMtf/view?usp=sharing)
+- 📄 Know about my experiences [Vinamra's Resume](https://drive.google.com/file/d/1yCkfWO38dUQJ63OxZGbk_bdRZ6H1zPtC/view?usp=sharing)
 
-- ⚡ Fun fact **Very fast typer 💨🔥**
+- ⚡ Fun fact **Very fast typer 💨🔥 - 150 WPM - Ranked in top 50 fastest typists in the world by 10fastfingers.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vinvash01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinvash01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinamra-vashishth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinamra-vashishth" height="30" width="40" /></a>
-<a href="https://fb.com/vinvash01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinvash01" height="30" width="40" /></a>
 <a href="https://instagram.com/vinvash01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinvash01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/2020kucp1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2020kucp1046" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Programming Languages:</h3>
