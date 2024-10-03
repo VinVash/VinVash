@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/vinvash01" target="blank"><img src="https://img.shields.io/twitter/follow/vinvash01?logo=twitter&style=for-the-badge" alt="vinvash01" /></a> </p>
 
-- 🔭 I’m currently working on [Full-stack Blockchain Projects](https://github.com/VinVash)
+- 🔭 I’m currently working on [Generative AI / Prompt Engineering](https://github.com/VinVash)
 
-- 🌱 Currently learning **Graph Protocol**
+- 🌱 Currently learning **Langchain and RAG**
 
-- 👯 Ready to collaborate on **Decentralised Social Media Projects**
+- 👯 Ready to collaborate on **RAG Projects**
 
 - 👨‍💻 All of my projects are available here: [Github Projects](https://github.com/VinVash?tab=repositories)
 
-- 💬 Ask me about **Blockchain, Web3.0 and MERN**
+- 💬 Ask me about **Web3.0, Prompt Engineering and Generative AI**
 
 - 📫 How to reach me **vinamra.30jan@gmail.com**
 
