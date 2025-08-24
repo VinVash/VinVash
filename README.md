@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinvash01" target="blank"><img src="https://img.shields.io/twitter/follow/vinvash01?logo=twitter&style=for-the-badge" alt="vinvash01" /></a> </p>
 
-- 🔭 I’m currently working on [Generative AI / Deep Learning / Data Engineering](https://github.com/VinVash)
+- 🔭 I’m currently pursuing my Masters in Computer Science @ Columbia University NYC and working on [Generative AI / Deep Learning / Data Engineering](https://github.com/VinVash)
 
 - 🌱 Currently learning **Neural Networks, LLMs and RAG**
 
